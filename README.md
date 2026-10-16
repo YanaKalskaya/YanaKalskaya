@@ -15,6 +15,18 @@ Frontend-разработчик из Екатеринбурга.
 - **Сборка и инструменты:** Vite · Webpack · ESLint · Git · Docker · Figma
 - **Также работала с:** Vue 3 · Angular · Java / Spring Boot · PostgreSQL
 
+## Проекты
+
+### 🎬 [Киноафиша](https://github.com/YanaKalskaya/cinema)
+Сайт кинотеатра: афиша, карточка фильма с расписанием сеансов, добавление и
+редактирование фильмов с валидацией формы и обработкой ошибок API.
+
+`React 19` `TypeScript` `Vite` `React Router` · `Spring Boot` `PostgreSQL` `Docker Compose`
+
+### Ранние проекты
+- [mp3-player](https://github.com/YanaKalskaya/mp3-player) — аудиоплеер на чистом JavaScript · [демо](https://yanakalskaya.github.io/mp3-player/)
+- [Form-validation](https://github.com/YanaKalskaya/Form-validation) — валидация формы на JavaScript · [демо](https://yanakalskaya.github.io/Form-validation/)
+
 ## Контакты
 - 📫 yaalka2004@gmail.com
 - ✈️ Telegram: [@yaalka2004](https://t.me/yaalka2004)

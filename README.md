@@ -9,10 +9,12 @@ Frontend-разработчик из Екатеринбурга.
 - Использую AI-ассистентов в разработке и проверяю каждую строку сгенерированного кода
 
 ## Стек
-**Основное:** JavaScript · TypeScript · React · HTML · CSS · SCSS · LESS
-**Данные и состояние:** TanStack Query · Redux Toolkit · Zustand · Axios · REST API
-**Сборка и инструменты:** Vite · Webpack · ESLint · Git · Docker · Figma
-**Также работала с:** Vue 3 · Angular · Java / Spring Boot · PostgreSQL
+
+- **Основное:** JavaScript · TypeScript · React · HTML · CSS · SCSS · LESS
+- **Данные и состояние:** TanStack Query · Redux Toolkit · Zustand · Axios · REST API
+- **Сборка и инструменты:** Vite · Webpack · ESLint · Git · Docker · Figma
+- **Также работала с:** Vue 3 · Angular · Java / Spring Boot · PostgreSQL
 
 ## Контакты
-📫 yaalka2004@gmail.com
+- 📫 yaalka2004@gmail.com
+- ✈️ Telegram: [@yaalka2004](https://t.me/yaalka2004)
